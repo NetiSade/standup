@@ -1,16 +1,8 @@
 # standup
 
-A new Flutter project.
+This tiny Flutter app has 2 purposes:
+1. Remind you to get up from the chair every X minutes.
+2. Practice the development of Flutter tiny applications :)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just launch the app, set a 'Work time' (default is 45 minutes) - and you're ready to go!
+Optional: Set the desired break time and after this time the cycle of work time, break time, etc. will continue until you stop it.
